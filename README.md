@@ -1,19 +1,23 @@
 <h1 align="center">Ahoy 👋, I'm Praanjal Raikwar</h1>
 <h3 align="center">A programming enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhOf1gL4qcpSE8bPDVT60r3eufUPdz7EH6ekCRrl7Ou7DtdzScxMnKYcVn8yDS1ownVo&usqp=CAU"> 
+<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praanjalraikwar&label=Profile%20views&color=0e75b6&style=flat" alt="praanjalraikwar" /> </p>
+
 - 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **praanjalraikwar@gmail.com**
 
 - 📄 Know about my published paper [https://www.neuroquantology.com/open-access/A+unique+approach+to+determine+the+output+waveform+of+the+clipper+circuit+and+verification+using+KVL+and+LTspice_5424/](https://www.neuroquantology.com/open-access/A+unique+approach+to+determine+the+output+waveform+of+the+clipper+circuit+and+verification+using+KVL+and+LTspice_5424/)
 
-- ⚡ Quirky coding tidbit about me **I got hooked on HTML at first tag.**
+- ⚡ Quirky coding tidbit about me, **I got hooked on HTML at first tag 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/praanjalraikwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/praanjalraikwar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@praanjalraikwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@praanjalraikwar" height="30" width="40" /></a>
+<a href="https://instagram.com/praanjalraikwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praanjalraikwar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/praanjalraikwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="praanjalraikwar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/praanjalraikwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="praanjalraikwar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praanjalraikwar&show_icons=true&locale=en" alt="praanjalraikwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praanjalraikwar&" alt="praanjalraikwar" /></p>
+
