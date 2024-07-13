@@ -1,3 +1,4 @@
+![logo](https://github.com/PraanjalRaikwar/PraanjalRaikwar/blob/main/Github%20Banner.png.png)
 <h1 align="center">Ahoy 👋, I'm Praanjal Raikwar</h1>
 <h3 align="center">A programming enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png">
